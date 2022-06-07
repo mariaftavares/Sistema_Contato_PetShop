@@ -50,8 +50,12 @@ Para abrir o projeto no `VSCODE`, é necessário:
 - Ir na barra de menus e selecionar a opção `file` ou `arquivo`;
 - Selecione a opção `open folder ...` e procure a pasta onde está o projeto;
 - Por fim clique em `OK`.
-- Entre na pasta  `InterfacePetShop` e execute o arquivo app.py .
-
+- Entre na pasta  `InterfacePetShop` que está dentro da pasta `Sistema_Contato_PetShop` e execute o arquivo app.py .
+ ``` bash
+├── Sistema_Contato_PetShop
+│   ├── InterfacePetShop
+│   │   └── app.py
+```
 
 ## Desenvolvedores
 
