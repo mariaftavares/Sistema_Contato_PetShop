@@ -33,11 +33,8 @@
 
 ## Ferramentas utilizadas
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-
-<a href="https://docs.python.org/3/library/tkinter.html" target="_blank"> <img src="https://w3cschoool.com/public/file/Python/tkinter-tutorial.png" alt="Tkinter" width="40" height="40"/> </a> 
-
-<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="40" height="40"/> </a> 
+ | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=115><br><sub>Python</sub>](https://www.python.org) |  [<img src="https://w3cschoool.com/public/file/Python/tkinter-tutorial.png" width=115><br><sub>Tkinter</sub>](https://docs.python.org/3/library/tkinter.html) |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width=115><br><sub>Sqlite</sub>](https://www.sqlite.org/index.html) |
+| :---: | :---: | :---: 
 
 
 ###
@@ -58,5 +55,5 @@ Para abrir o projeto no `VSCODE`, é necessário:
 
 ## Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/83185858?v=4" width=115><br><sub>Maria Fernanda Tavares</sub>](https://github.com/mariaftavares) | [<img src="https://avatars.githubusercontent.com/u/90785587?v=4" width=115><br><sub>Leticia Carvalho</sub>](https://github.com/letscarvalho) | [<img src="https://avatars.githubusercontent.com/u/80288622?v=4" width=115><br><sub>Lauriane Almeida</sub>](https://github.com/Laurysialm) |
-| :---: | :---: | :---: | :---: 
+| [<img src="https://avatars.githubusercontent.com/u/83185858?v=4" width=115><br><sub>Maria Fernanda Tavares</sub>](https://github.com/mariaftavares) |  [<img src="https://avatars.githubusercontent.com/u/90785587?v=4" width=115><br><sub>Leticia Carvalho</sub>](https://github.com/letscarvalho) |  [<img src="https://avatars.githubusercontent.com/u/80288622?v=4" width=115><br><sub>Lauriane Almeida</sub>](https://github.com/Laurysialm) |
+| :---: | :---: | :---: 
